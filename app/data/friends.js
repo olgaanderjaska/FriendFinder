@@ -3,17 +3,17 @@ function Friends() {
 
     //declaring array of all friends
     var friends = [{
-            "name": "Ahmed",
+            "name": "John Smith",
             "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
             "scores": [5, 1, 4, 4, 3, 1, 2, 4, 5, 3]
         },
         {
-            "name": "Jacob Deming",
+            "name": "Alex Goff",
             "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
             "scores": [3, 4, 2, 5, 2, 2, 1, 4, 3, 5]
         },
         {
-            "name": "Jeremiah Scanlon",
+            "name": "Mick Kraft",
             "photo": "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
             "scores": [4, 5, 2, 3, 5, 5, 1, 4, 3, 2]
         }
