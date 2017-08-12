@@ -2,8 +2,8 @@ const express = require('express');
 const bodyParser = require('body-parser');
 
 //importing our routs for html pages and api
-const htmlRouters = require('./app/routing/htmlRouters.js');
-const apiRouters = require('./app/routing/apiRouters.js');
+const htmlRouters = require('./app/routing/htmlRoutes.js');
+const apiRouters = require('./app/routing/apiRoutes.js');
 
 var app = express();
 //defining port to start fo Heroku and localhost
